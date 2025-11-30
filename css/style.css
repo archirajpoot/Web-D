@@ -1,0 +1,32 @@
+h1{
+    color:red;
+    background-color: aqua;
+    text-align: center;
+    font-weight: 900; /*100 to 900*/
+    text-decoration: red overline;
+    text-decoration-style: double;
+}
+
+p{
+    color:black;
+    /*background-color:pink;*/
+    font-weight:400;
+     text-decoration:pink underline ;
+     text-decoration-style: wavy;
+     line-height: 1.5;
+     letter-spacing: 2px;
+    /* font-size: 10px;*/
+     font-family: didot;
+    /* also can be bolder and lighter*/
+}
+h2{
+    font-weight:600;
+    
+}
+button{
+    color:yellow;
+}
+a{
+    text-decoration: none;
+    /*line remove*/
+}
