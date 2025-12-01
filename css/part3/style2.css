@@ -1,0 +1,19 @@
+h1 {
+    display: inline;
+    background-color: aqua;
+}
+span {
+    /* display:block; */
+    /* background-color: blanchedalmond; */
+    border: 2px solid black;
+    height: 100px;
+    padding: 50px;
+    margin: 50px;
+    transition: margin-top 2s easeinout 0.2s;
+}
+div {
+     border: 2px solid black;
+    height: 100px;
+    padding: 50px;
+    margin: 50px;
+}

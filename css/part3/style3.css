@@ -1,0 +1,58 @@
+/* #outer {
+    height: 200px;
+    width: 70px;
+    border:2px solid black;
+    margin:20px;
+    padding: 10px;
+}
+.inner {
+    height: 50px;
+    width: 50px10px;
+    border: 2px solid black;
+    border-radius: 50%;
+    margin: 10px;
+}
+#red {
+    background-color: red;
+}
+#green {
+    background-color: green;
+}
+#blue {
+    background-color: yellow;
+} */
+ /* div { */
+    /* height: 200px;
+    width: 200px;
+    background-color: greenyellow;
+    border: 2px solid black;
+    margin: 10px;
+    display: inline-block;
+ }
+ #third {
+    display: none;
+ } */
+ h1 {
+    border: 2px solid black;
+    width: 33.3%;
+ }
+ #outer {
+   height: 400px;
+   width: 400px;
+   background-color: aqua;
+   margin: 50px;
+ }
+ #inner {
+   height: 100px;
+   width: 100px;
+   background-color: 255,0,0,0.3;
+   margin-left: 50%;
+
+ }
+ button {
+    font-size: 100px;
+    border: 2px solid green;
+    border-radius: 15px;
+    padding-left: 1em;
+    padding-right:1em;
+ }
