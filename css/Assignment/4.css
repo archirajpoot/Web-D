@@ -1,0 +1,14 @@
+#container {
+    width: 900px;
+    height: 50px;
+    background-color: aqua;
+    border: 2px solid black;
+    display: flex;
+    border-radius: 10%;
+}
+#container div {
+    height:50px ;
+    width: 80px;
+    align-items: flex-start;
+    font-size: 25px;
+}
